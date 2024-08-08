@@ -5094,10 +5094,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron-serve@npm:^1.1.0":
-  version: 1.1.0
-  resolution: "electron-serve@npm:1.1.0"
-  checksum: 1b96c576d9fea06e4c8e8dd67225c07661685c7899e7b621d3cdc3cc38c1ad0d228aae44d4febc3537876f017b27f9fcf3196d0b6e28383a94aa27958e3911db
+"electron-serve@npm:^2.0.0":
+  version: 2.0.0
+  resolution: "electron-serve@npm:2.0.0"
+  checksum: 3cbd5641bba30897ddbad3bcd83a0ce79075d5524f23f0bf4eba90d72c16200b7f08d32c61095bee4e8060ea6ebe240ce1e87f9359da90b4bd035a2b6693611f
   languageName: node
   linkType: hard
 
@@ -7935,7 +7935,7 @@ fsevents@^1.2.7:
     css-reset-and-normalize: ^2.3.5
     electron: ^13.1.9
     electron-builder: ^22.11.7
-    electron-serve: ^1.1.0
+    electron-serve: ^2.0.0
     electron-store: ^8.0.0
     eslint: 7.32.0
     eslint-config-airbnb: 18.2.1
