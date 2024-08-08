@@ -7591,13 +7591,13 @@ fsevents@^1.2.7:
   linkType: hard
 
 "lcu-connector@npm:^2.1.3":
-  version: 2.1.3
-  resolution: "lcu-connector@npm:2.1.3"
+  version: 2.1.4
+  resolution: "lcu-connector@npm:2.1.4"
   dependencies:
     chokidar: 2.1.2
     fs-extra: 4.0.3
     lol-lockfile-parser: 1.0.2
-  checksum: 3e73c8defded0c6d14f09faca78fd66ad6c2dcfdc41fe2548ef1ce94780b639dab988f8948a2a6e7701391d02a7715d401265f419dcfc730cbecaafdeeba2c34
+  checksum: 1925f2aebab1ba357039c49b96543bdfa47aaff099f3ceebfa1387e22bf01977d6d52217261e52943718cabce7a86a3360c0443af80aee3a47677bc243dbda8c
   languageName: node
   linkType: hard
 
