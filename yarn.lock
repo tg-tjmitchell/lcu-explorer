@@ -2368,12 +2368,12 @@ __metadata:
   linkType: hard
 
 "@types/styled-theming@npm:^2.2.5":
-  version: 2.2.5
-  resolution: "@types/styled-theming@npm:2.2.5"
+  version: 2.2.8
+  resolution: "@types/styled-theming@npm:2.2.8"
   dependencies:
     "@types/styled-components": "*"
     csstype: ^3.0.2
-  checksum: 4afc95c72a73fbcf99cdf5dcd025f46554b551bcd6129f5c041dbf253d779a9b6cf105f69dc828399fc1a91a34766799da6ff7585818ec405d3adc98d56be334
+  checksum: d1d9a74c0ddbe6df6cd4d0d42f6a58cf93bcee736caff60fe45cbecd8775d4b4b0a29fdd6a825de2a241280d0fcf98ba0eff5bb33cd374219f31092f7ba3d2d0
   languageName: node
   linkType: hard
 
