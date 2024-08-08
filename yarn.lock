@@ -11909,14 +11909,14 @@ __metadata:
   linkType: hard
 
 "tracer@npm:^1.1.5":
-  version: 1.1.5
-  resolution: "tracer@npm:1.1.5"
+  version: 1.3.0
+  resolution: "tracer@npm:1.3.0"
   dependencies:
     colors: "npm:1.4.0"
     dateformat: "npm:4.5.1"
     mkdirp: "npm:^1.0.4"
     tinytim: "npm:0.1.1"
-  checksum: 8/b1071b9f5cbb6e3514d48303532292b31448f26990be264f40cddabf28d61506f51d45278b43f30555dbccf6b1e1a8ae571c3a620917c080ab1aba64f6f47b14
+  checksum: 10c0/041bf1eb71ae13a58ca14f61249af49b146540873644a0c2e0ccfe85dfe6c58f64a4f053da1bd0cb5235c61728206960ce30fc8ee27c2ee206d43c0c2b1b8ed9
   languageName: node
   linkType: hard
 
