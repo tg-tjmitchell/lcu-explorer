@@ -1560,7 +1560,6 @@ __metadata:
 "@next/swc-darwin-arm64@npm:11.1.2":
   version: 11.1.2
   resolution: "@next/swc-darwin-arm64@npm:11.1.2"
-  checksum: e87481c2d1436e947f1101d4d3e45bc9486f3dc312d120a6042b4a2333f16150b3881f322103ef52431e09178093775b02d725b843a7dde441f3ee319495ec95
   conditions: os=darwin & cpu=arm64
   languageName: node
   linkType: hard
@@ -1568,7 +1567,6 @@ __metadata:
 "@next/swc-darwin-x64@npm:11.1.2":
   version: 11.1.2
   resolution: "@next/swc-darwin-x64@npm:11.1.2"
-  checksum: 74717c27d2dd8e16ed6221ebc1fd0e212ffe467cc77dcd70f61b5ed9763b64dff36e6b3745791bc01771a2df9b60e609393d8ef848d894464cc15d45641a34f8
   conditions: os=darwin & cpu=x64
   languageName: node
   linkType: hard
@@ -1576,7 +1574,6 @@ __metadata:
 "@next/swc-linux-x64-gnu@npm:11.1.2":
   version: 11.1.2
   resolution: "@next/swc-linux-x64-gnu@npm:11.1.2"
-  checksum: 7cf8cf47cf007f7f1101fddb9850c03297950f84acc25b2b6ae2bce9f8ee860671adebde6c61df3cf721a50ec985304a98ea2ba7a5b594fd22032ae5f5cade02
   conditions: os=linux & cpu=x64
   languageName: node
   linkType: hard
@@ -1584,7 +1581,6 @@ __metadata:
 "@next/swc-win32-x64-msvc@npm:11.1.2":
   version: 11.1.2
   resolution: "@next/swc-win32-x64-msvc@npm:11.1.2"
-  checksum: dec45ee30bf9edc8d46a59fa9c1c9fcf00352ab02f5e9ff3cfde3d83cc47aa2be2615ac47142495e63419bd6764a25d2f5a73190d261293dc959fe94de14e9e5
   conditions: os=win32 & cpu=x64
   languageName: node
   linkType: hard
@@ -3938,9 +3934,9 @@ __metadata:
   linkType: hard
 
 "css-reset-and-normalize@npm:^2.3.5":
-  version: 2.3.5
-  resolution: "css-reset-and-normalize@npm:2.3.5"
-  checksum: 59f006758c036f3ea4ff8dea96a3245b7a3466988e9786b4bfda5475f56bdcafe50388a888a85cb134ed303891b010b29caa83dd1d69b2bd45dd1c8eb58b8645
+  version: 2.3.6
+  resolution: "css-reset-and-normalize@npm:2.3.6"
+  checksum: 86cd8dbe9d359be3f466f75a98ebabb37dcbcb2f7c778c4f794abc1d7dc8a6932f33affead8a2bd226b46951dc708b54b0a857e625eec45c5fc563c28366a53f
   languageName: node
   linkType: hard
 
@@ -4243,7 +4239,6 @@ __metadata:
     verror: ^1.10.0
   bin:
     dmg-license: bin/dmg-license.js
-  checksum: 9b9d46792c1ea4515f040c7c5dc3b9a00b18ad350ccc5225f4bd1244e1a2b6176c29d9c59bb1bdc4b29fd233c4fb6c0a9990f69c14c980f97b0695325cba4c4f
   conditions: os=darwin
   languageName: node
   linkType: hard
@@ -5996,7 +5991,6 @@ fsevents@^1.2.7:
   dependencies:
     cli-truncate: ^1.1.0
     node-addon-api: ^1.6.3
-  checksum: ed91ef66eee3a1c28947c80208b277b429449f5e67d6addd511fd53569a8e1ca9f51b21357f2ea33af7efe738f5e7e780ab2d45fb671b3f6694b8db7d43f1974
   conditions: os=darwin
   languageName: node
   linkType: hard
