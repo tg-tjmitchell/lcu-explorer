@@ -4500,9 +4500,9 @@ __metadata:
   linkType: hard
 
 "css-reset-and-normalize@npm:^2.3.5":
-  version: 2.3.5
-  resolution: "css-reset-and-normalize@npm:2.3.5"
-  checksum: 59f006758c036f3ea4ff8dea96a3245b7a3466988e9786b4bfda5475f56bdcafe50388a888a85cb134ed303891b010b29caa83dd1d69b2bd45dd1c8eb58b8645
+  version: 2.3.6
+  resolution: "css-reset-and-normalize@npm:2.3.6"
+  checksum: 86cd8dbe9d359be3f466f75a98ebabb37dcbcb2f7c778c4f794abc1d7dc8a6932f33affead8a2bd226b46951dc708b54b0a857e625eec45c5fc563c28366a53f
   languageName: node
   linkType: hard
 
