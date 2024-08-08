@@ -2378,9 +2378,9 @@ __metadata:
   linkType: hard
 
 "@types/swagger-ui@npm:^3.52.0":
-  version: 3.52.0
-  resolution: "@types/swagger-ui@npm:3.52.0"
-  checksum: fc72751e74e8c8786d805bc6ecbdf712575ca7bda278a8a3a5dca48fe930623b109ba843adbbd2b7bd95700f81a948c67f005228f835c5feaa4f0715ccb5a372
+  version: 3.52.4
+  resolution: "@types/swagger-ui@npm:3.52.4"
+  checksum: af99c9b9f3f842836be6e0b529e42c704433fccb2b0a2eb8379fac84ce39e9cbabaca4f2888e190fbb689bbcb4be73d9ae8845ad50f8a9b71c2195601b37d27b
   languageName: node
   linkType: hard
 
