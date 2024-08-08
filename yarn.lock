@@ -7953,7 +7953,7 @@ fsevents@^1.2.7:
     prettier: ^2.3.2
     react: ^17.0.2
     react-dom: ^17.0.2
-    recoil: ^0.4.0
+    recoil: ^0.7.0
     sass: ^1.37.5
     styled-components: ^5.3.0
     styled-theming: ^2.2.0
@@ -10035,9 +10035,9 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"recoil@npm:^0.4.0":
-  version: 0.4.1
-  resolution: "recoil@npm:0.4.1"
+"recoil@npm:^0.7.0":
+  version: 0.7.7
+  resolution: "recoil@npm:0.7.7"
   dependencies:
     hamt_plus: 1.0.2
   peerDependencies:
@@ -10047,7 +10047,7 @@ fsevents@^1.2.7:
       optional: true
     react-native:
       optional: true
-  checksum: a11a93e5168d22500b8b981b0ae9c31a81987f5d7213f8be9531c3938d1b2c192ee664d94c9a70302248a292cb21ec430b0e8113f751d0ff46185ebf32c58c95
+  checksum: 65edecbcb8d2cde89bfd61ec679c200483472a6cd343c33e4e9142b6ce524fb17d1fecc2bfd8c392926aaa8178c81457f165b32abce2a9662f51f98822c0a9cc
   languageName: node
   linkType: hard
 
