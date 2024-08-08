@@ -4378,9 +4378,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"conf@npm:^10.0.3":
-  version: 10.0.3
-  resolution: "conf@npm:10.0.3"
+"conf@npm:^10.2.0":
+  version: 10.2.0
+  resolution: "conf@npm:10.2.0"
   dependencies:
     ajv: "npm:^8.6.3"
     ajv-formats: "npm:^2.1.1"
@@ -4392,7 +4392,7 @@ __metadata:
     onetime: "npm:^5.1.2"
     pkg-up: "npm:^3.1.0"
     semver: "npm:^7.3.5"
-  checksum: 8/7e84fb569a2b61675bc6b27724ccce828a22b60bdb6162ce7d63fbf0897e2d4b61db19643ad355fa2cf0d2ad1af83a67e9021c53d4c7a96d931a2830019b9c3f
+  checksum: 10c0/d608d8c54ba7fad368eac640e77f2ce0334ec27cfd62ac39f44e361af8af9915eaa6c2ada81fbc25c3219273d972b4868bc752e8e2116cb6e12d35df72dc25a4
   languageName: node
   linkType: hard
 
@@ -5180,12 +5180,12 @@ __metadata:
   linkType: hard
 
 "electron-store@npm:^8.0.0":
-  version: 8.0.1
-  resolution: "electron-store@npm:8.0.1"
+  version: 8.2.0
+  resolution: "electron-store@npm:8.2.0"
   dependencies:
-    conf: "npm:^10.0.3"
-    type-fest: "npm:^1.0.2"
-  checksum: 8/3d708598c554c55ede73569879c9e538b4a644a693af9e5fd49d3c091e1ee6d2a32b6a4d6a1834a4f116a59724a7263ddebd42ded1e15119303b3132c4194a38
+    conf: "npm:^10.2.0"
+    type-fest: "npm:^2.17.0"
+  checksum: 10c0/a4d19827e96ab67bf6c2a375910f51b147b23f4a0468da5cfeeb069acdfdbcd3a9f5650248a62a05aa0967149e4d1c47f2d0ba7582205e5eb38952c93b6882e1
   languageName: node
   linkType: hard
 
@@ -12170,10 +12170,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"type-fest@npm:^1.0.2":
-  version: 1.4.0
-  resolution: "type-fest@npm:1.4.0"
-  checksum: 8/b011c3388665b097ae6a109a437a04d6f61d81b7357f74cbcb02246f2f5bd72b888ae33631b99871388122ba0a87f4ff1c94078e7119ff22c70e52c0ff828201
+"type-fest@npm:^2.17.0":
+  version: 2.19.0
+  resolution: "type-fest@npm:2.19.0"
+  checksum: 10c0/a5a7ecf2e654251613218c215c7493574594951c08e52ab9881c9df6a6da0aeca7528c213c622bc374b4e0cb5c443aa3ab758da4e3c959783ce884c3194e12cb
   languageName: node
   linkType: hard
 
