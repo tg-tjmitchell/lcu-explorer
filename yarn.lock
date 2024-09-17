@@ -4812,9 +4812,9 @@ __metadata:
   linkType: hard
 
 "electron-serve@npm:^2.0.0":
-  version: 2.0.0
-  resolution: "electron-serve@npm:2.0.0"
-  checksum: 8/3cbd5641bba30897ddbad3bcd83a0ce79075d5524f23f0bf4eba90d72c16200b7f08d32c61095bee4e8060ea6ebe240ce1e87f9359da90b4bd035a2b6693611f
+  version: 2.1.1
+  resolution: "electron-serve@npm:2.1.1"
+  checksum: 10c0/e87d086bb916628dc0f1591783185c7012afc58daeeabd4e23b0836e19bc7347ce7740a707f81175a0ef657a4f0932e9449420359e10d3ebe266baa22cad584c
   languageName: node
   linkType: hard
 
