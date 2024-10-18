@@ -73,5 +73,5 @@
     "react-dom": "^18.0.0",
     "typescript": "^5.0.0"
   },
-  "packageManager": "yarn@4.4.0"
+  "packageManager": "yarn@4.5.1"
 }
