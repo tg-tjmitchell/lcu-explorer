@@ -2512,9 +2512,9 @@ __metadata:
   linkType: hard
 
 "@types/lodash@npm:^4":
-  version: 4.17.7
-  resolution: "@types/lodash@npm:4.17.7"
-  checksum: 8/09e58a119cd8a70acfb33f8623dc2fc54f74cdce3b3429b879fc2daac4807fe376190a04b9e024dd300f9a3ee1876d6623979cefe619f70654ca0fe0c47679a7
+  version: 4.17.27
+  resolution: "@types/lodash@npm:4.17.27"
+  checksum: 10c0/3769c022437664352a78234b8d9f6ba24693893552ef4192e507bbc7412dc621098afad0bc36f9d03855f629b143c01f3574afb2f818abcb447ebba066ad16bf
   languageName: node
   linkType: hard
 
